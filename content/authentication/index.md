@@ -1,4 +1,4 @@
----
+---I am new and just learning and there really seems to be NO FIRST TIMERS LEARN AS YOU GO WALKTHROUGHS OR UNDERSTANDING OF THE LANGUAGE BEING USED? ALSO there seems to be a flourishing amount of data and information offered for easy access? Isn't that dangerous? Shouldn't there be graduate type levels offered to people who want to learn?
 title: Authentication
 intro: 'Keep your account and data secure with features like {% ifversion not ghae %}two-factor authentication, {% endif %}SSH{% ifversion not ghae %},{% endif %} and commit signature verification.'
 redirect_from:
